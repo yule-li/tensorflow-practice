@@ -20,7 +20,7 @@ First the key concepts of tensorflow programming and components that constitude 
     - [Variables](https://github.com/yule-li/tensorflow-practice/blob/master/components/variables/variable.ipynb)
     - [Name and scope](https://github.com/yule-li/tensorflow-practice/blob/master/components/scopes/scopes.ipynb)
     - [Optimizer and trainer](https://github.com/yule-li/tensorflow-practice/blob/master/components/optimizer/linear_regression.ipynb)
-    - Convolution network
+    - [Convolution network](https://github.com/yule-li/tensorflow-networks/blob/master/networks/sphere_network.py)
     - Save and restore
     - Tensorboard
     - Custom layer
@@ -37,4 +37,7 @@ First the key concepts of tensorflow programming and components that constitude 
         * Resnet
         * CocoFace
 
-
+## References
+1. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+2. [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
+3. [Tensorflow sphereface](https://github.com/hujun100/tensorflow-sphereface)
