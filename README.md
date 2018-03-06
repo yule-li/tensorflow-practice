@@ -17,7 +17,7 @@ First the key concepts of tensorflow programming and components that constitude 
     - [Tensor](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/tensor/tensors.ipynb)
     - [Operation](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/operations/basic_operations.ipynb)
 2. Components
-    - [Variables](https://github.com/yule-li/tensorflow-practice/blob/master/components/variables/variable.ipynb
+    - [Variables](https://github.com/yule-li/tensorflow-practice/blob/master/components/variables/variable.ipynb)
     - [Name and scope](https://github.com/yule-li/tensorflow-practice/blob/master/components/scopes/scopes.ipynb)
     - [Optimizer and trainer](https://github.com/yule-li/tensorflow-practice/blob/master/components/optimizer/linear_regression.ipynb)
     - Convolution network
