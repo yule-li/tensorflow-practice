@@ -9,6 +9,7 @@ This project implemented a face recongnition model, actually face verification m
 First the key concepts of tensorflow programming and components that constitude the model was introduced. Then a basic model taking advantages of both was implemented. Finally, the optimization was made to improve the basic model as far as both training speed and test accuracy were concerned.
 
 ## Table of Contents
+0. [Introduction](http://study.163.com/course/courseLearn.htm?courseId=1005023019#/learn/video?lessonId=1051308829&courseId=1005023019)
 
 1. The key concepts
     - [Graph](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/graph/graph_add.ipynb)
