@@ -1,5 +1,5 @@
 # Learning tensorflow by just one example for beginners.
-This project was designed for learning tensorflow by just one example for beginners. More specifically, it's aimmed to achive the goal as follow:
+This project was designed for learning tensorflow by just one example for beginners. More specifically, it's aimmed to achive the goal as follows:
 - Understanding the key concepts of addressing compuation in tensorflow 
 - Implementing your machine learning, especially deep learning, model using this concepts. 
 - Learn to debug the problem and optimize the program under the tensorflow framework.
@@ -10,6 +10,8 @@ First the key concepts of tensorflow programming and components that constitude 
 
 ## Table of Contents
 0. [Introduction](http://study.163.com/course/courseLearn.htm?courseId=1005023019#/learn/video?lessonId=1051308829&courseId=1005023019)
+    - Overview
+    - Requirements
 
 1. The key concepts
     - [Graph](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/graph/graph_add.ipynb)
@@ -23,7 +25,7 @@ First the key concepts of tensorflow programming and components that constitude 
     - [Convolution network](https://github.com/yule-li/tensorflow-networks/blob/master/networks/sphere_network.py)
     - Save and restore
     - Tensorboard
-    - Custom layer
+    - Customized layer
 3. Work togother
     - Modularization
     - Project template
