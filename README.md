@@ -10,8 +10,8 @@ First the key concepts of tensorflow programming and components that constitude 
 
 ## Table of Contents
 0. [Introduction](http://study.163.com/course/courseLearn.htm?courseId=1005023019#/learn/video?lessonId=1051308829&courseId=1005023019)
-    - Overview
-    - Requirements
+    - [Requirements](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/requirement.md)
+    - [Overview](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/overview.md)
 
 1. The key concepts
     - [Graph](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/graph/graph_add.ipynb)
