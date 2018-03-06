@@ -11,10 +11,10 @@ First the key concepts of tensorflow programming and components that constitude 
 ## Table of Contents
 
 1. The key concepts
-    - Graph
-    - Session
-    - Tensor
-    - Operation
+    - [Graph](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/graph/graph_add.ipynb)
+    - [Session](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/session/session_add.ipynb)
+    - [Tensor](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/tensor/tensors.ipynb)
+    - [Operation](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/operations/basic_operations.ipynb)
 2. Components
     - Variables
     - Name and scope
