@@ -21,19 +21,19 @@ First the key concepts of tensorflow programming and components that constitude 
     - Optimizer and trainer
     - Convolution network
     - Save and restore
-    - tensorboard
-    - custom layer
+    - Tensorboard
+    - Custom layer
 3. Work togother
     - Modularization
     - Project template
     - Code togother
 4. Optimization
-    - speed:
-        * timeline
-        * data management
-        * multi-gpu
+    - Speed:
+        * Timeline
+        * Data management
+        * Multi-gpu
     - accuracy
-        * resnet
-        * insight
+        * Resnet
+        * CocoFace
 
 
