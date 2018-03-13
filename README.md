@@ -35,8 +35,8 @@ Firstly, the key concepts of tensorflow program and components that constitude t
 4. Optimization
     - Speed:
         * [Timeline]()
-        * [Data management](://github.com/yule-li/tensorflow-practice/blob/master/components/data_management/data_management.md)
-        * Multi-gpu
+        * [Data management](https://github.com/yule-li/tensorflow-practice/blob/master/components/data_management/data_management.md)
+        * [Multi-gpu]()
     - accuracy
         * [Modify the network structure]()
         * [CosFace](https://github.com/yule-li/CosFace)
@@ -45,3 +45,5 @@ Firstly, the key concepts of tensorflow program and components that constitude t
 1. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 2. [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
 3. [Tensorflow sphereface](https://github.com/hujun100/tensorflow-sphereface)
+
+
