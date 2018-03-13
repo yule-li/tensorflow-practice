@@ -1,6 +1,6 @@
 Here we provide two methods to manage your dataset in training phase.
 - ```tf.train.FIFOQueue```
-- ```tf.data````
+- ```tf.data```
 
 
 ### reference
