@@ -17,7 +17,7 @@ Basic elements:
 - tensor
 - operation
 
-Phases
+[Phases](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/session/session_add.ipynb)
 - Phase 1: assemble a graph
 - Phase 2: use a session to execute operations in the graph
 
