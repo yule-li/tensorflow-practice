@@ -24,5 +24,5 @@ pip install --upgrade tensorflow-gpu # for gpu
 ## Tips
 1. Install the specified version like 1.2.1:
     - ```pip install tensorflow-gpu==1.2.1```
-2. Install TF from the specified pipi source such as ```pypi.douban.com```
+2. Install TF from the specified pypi source such as ```pypi.douban.com```
     - ```pip install -i http://pypi.douban.com/simple/ tensorflow-gpu```
