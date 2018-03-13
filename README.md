@@ -13,6 +13,7 @@ Firstly, the key concepts of tensorflow program and components that constitude t
     - [Requirements](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/requirement.md)
     - [Overview](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/overview.md)
     - [Installation](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/installation.md)
+    - [Document](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/document.md)
 
 1. The key concepts
     - [Graph](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/graph/graph_add.ipynb)
@@ -24,20 +25,20 @@ Firstly, the key concepts of tensorflow program and components that constitude t
     - [Name and scope](https://github.com/yule-li/tensorflow-practice/blob/master/components/scopes/scopes.ipynb)
     - [Optimizer and trainer](https://github.com/yule-li/tensorflow-practice/blob/master/components/optimizer/linear_regression.ipynb)
     - [Convolution network](https://github.com/yule-li/tensorflow-networks/blob/master/networks/sphere_network.py)
-    - Save and restore
-    - Tensorboard
+    - [Save and restore]()
+    - [Tensorboard]()
     - [Customized layer](https://github.com/yule-li/CosFace)
 3. Work togother
-    - Modularization
-    - Project template
-    - Code togother
+    - [Modularization]()
+    - [Project template]()
+    - [Code togother]()
 4. Optimization
     - Speed:
-        * Timeline
+        * [Timeline]()
         * [Data management](://github.com/yule-li/tensorflow-practice/blob/master/components/data_management/data_management.md)
         * Multi-gpu
     - accuracy
-        * Modify the network structure
+        * [Modify the network structure]()
         * [CosFace](https://github.com/yule-li/CosFace)
 
 ## References
