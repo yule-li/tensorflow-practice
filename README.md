@@ -26,7 +26,7 @@ Firstly, the key concepts of tensorflow program and components that constitude t
     - [Convolution network](https://github.com/yule-li/tensorflow-networks/blob/master/networks/sphere_network.py)
     - Save and restore
     - Tensorboard
-    - Customized layer
+    - [Customized layer](https://github.com/yule-li/CosFace)
 3. Work togother
     - Modularization
     - Project template
@@ -34,11 +34,11 @@ Firstly, the key concepts of tensorflow program and components that constitude t
 4. Optimization
     - Speed:
         * Timeline
-        * Data management
+        * [Data management](://github.com/yule-li/tensorflow-practice/blob/master/components/data_management/data_management.md)
         * Multi-gpu
     - accuracy
-        * Resnet
-        * CocoFace
+        * Modify the network structure
+        * [CosFace](https://github.com/yule-li/CosFace)
 
 ## References
 1. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
