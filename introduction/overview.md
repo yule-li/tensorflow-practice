@@ -10,9 +10,13 @@ The overview of a similar graph of a three-layer neural network in TensorFlow sh
 - dynamic graph: you can define, change and execute nodes as you go, no special session interfaces or placeholders.
 
 ## Why Tensorflow
-- Flexibility
-- Scalability
-- Popularity
+For production:
+    - efficient
+    - Scalability
+For research:
+    - Flexibility
+Other reasons:
+    - Popularity
 
 ## [Data Flow Graphs](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/key_concepts.md)
 Basic elements:
