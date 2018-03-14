@@ -13,7 +13,7 @@ Firstly, the key concepts of tensorflow program and components that constitude t
     - [Requirements](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/requirement.md)
     - [Overview](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/overview.md)
     - [Installation](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/installation.md)
-    - [Document](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/document.md)
+    - [Resources](https://github.com/yule-li/tensorflow-practice/blob/master/introduction/document.md)
 
 1. The key concepts
     - [Graph](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/graph/graph_add.ipynb)
