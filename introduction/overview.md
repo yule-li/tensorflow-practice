@@ -11,12 +11,12 @@ The overview of a similar graph of a three-layer neural network in TensorFlow sh
 
 ## Why Tensorflow
 For production:
-    - efficient
-    - Scalability
+- efficient
+- Scalability
 For research:
-    - Flexibility
+- Flexibility
 Other reasons:
-    - Popularity
+- Popularity
 
 ## [Data Flow Graphs](https://github.com/yule-li/tensorflow-practice/blob/master/concepts/key_concepts.md)
 Basic elements:
