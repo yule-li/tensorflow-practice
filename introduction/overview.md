@@ -13,8 +13,10 @@ The overview of a similar graph of a three-layer neural network in TensorFlow sh
 For production:
 - efficient
 - Scalability
+
 For research:
 - Flexibility
+
 Other reasons:
 - Popularity
 
