@@ -8,8 +8,12 @@ In order to achive this goal, I play attention on a pratical task and dig deep i
 
 This project choice face recongnition problem as the task, actually face verification model. The model was trained on the [CASIA-WEBFACE](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html) and tested on the [LFW](http://vis-www.cs.umass.edu/lfw/). 
 
-
-Firstly, the key concepts of tensorflow program and components that constitude the model were introduced. Then a basic model taking advantages of both the key concepts and compoents was implemented. Finally, the optimization was made to improve the basic model as far as both training speed and test accuracy were concerned.
+The project can be logically divided into three parts of different levels.
+- the key concepts of tensorflow program and components that constitude the model were introduced. 
+- a basic model taking advantages of both the key concepts and compoents was implemented and the softmax loss was used to learn the feature. 
+- the optimization was made to improve the basic model as far as both training speed and test accuracy were concerned.
+    * data management and multi-gpu were utilized to speed up the training
+    * a more powerful network and new loss called [Large Margin Cosine Loss](https://arxiv.org/pdf/1801.09414.pdf) were used to improve the accuracy.
 
 ## Table of Contents
 0. [Introduction](http://study.163.com/course/courseLearn.htm?courseId=1005023019#/learn/video?lessonId=1051308829&courseId=1005023019)
