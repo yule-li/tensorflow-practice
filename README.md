@@ -41,6 +41,9 @@ Firstly, the key concepts of tensorflow program and components that constitude t
         * [Modify the network structure]()
         * [CosFace](https://github.com/yule-li/CosFace)
 
+## How to debug your program
+Firstly you should be clear which phase the errors are from.
+
 ## References
 1. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 2. [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
