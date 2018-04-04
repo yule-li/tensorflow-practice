@@ -55,5 +55,7 @@ Firstly you should be clear which phase the errors are from.
 1. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 2. [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
 3. [Tensorflow sphereface](https://github.com/hujun100/tensorflow-sphereface)
+4. [tensorflow cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+5. [tensorflow sphereface](https://github.com/hujun100/tensorflow-sphereface)
 
 
