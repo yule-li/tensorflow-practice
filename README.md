@@ -32,9 +32,9 @@ The project can be logically divided into three parts of different levels.
     - [Name and scope](https://github.com/yule-li/tensorflow-practice/blob/master/components/scopes/scopes.ipynb)
     - [Optimizer and trainer](https://github.com/yule-li/tensorflow-practice/blob/master/components/optimizer/linear_regression.ipynb)
     - [Convolution network](https://github.com/yule-li/tensorflow-practice/tree/master/components/convolution_network)
-    - [Save and restore]()
+    - [Save and restore](components/save_and_restore/save_and_restore.ipynb)
     - [Tensorboard]()
-    - [Customized layer](https://github.com/yule-li/CosFace)
+    - [Customized layer](components/customized_op/customized_op.ipynb)
 3. Work togother
     - [Modularization]()
     - [Project template]()
