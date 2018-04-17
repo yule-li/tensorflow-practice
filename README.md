@@ -48,8 +48,11 @@ The project can be logically divided into three parts of different levels.
         * [Modify the network structure]()
         * [CosFace](https://github.com/yule-li/CosFace)
 
-## How to debug your program
+## How to debug your tensorflow program
 Firstly you should be clear which phase the errors are from.
+
+## FAQ
+Please look [here](doc/faq.md)
 
 ## References
 1. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
