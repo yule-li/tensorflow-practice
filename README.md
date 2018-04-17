@@ -6,7 +6,7 @@ This project was designed for learning tensorflow by just one example for beginn
 
 In order to achive this goal, I play attention on a pratical task and dig deep it instead of a wide of examples. By this way, I want to share the process of doing my research or task, and hope to help beginners to build a overview of modeling the machine learning problem using tensorflow.
 
-This project choice face recongnition problem as the task, actually face verification model. The model was trained on the [CASIA-WEBFACE](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html) and tested on the [LFW](http://vis-www.cs.umass.edu/lfw/). 
+This project choice face recongnition problem as the task, actually face verification model. The model was trained on the [CASIA-WEBFACE](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html) and tested on the [LFW](http://vis-www.cs.umass.edu/lfw/). More details about the dataset are [here](doc/dataset.md)
 
 The project can be logically divided into three parts of different levels.
 - the key concepts of tensorflow program and components that constitude the model were introduced. 
