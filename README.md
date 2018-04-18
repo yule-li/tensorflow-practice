@@ -37,7 +37,7 @@ The project can be logically divided into three parts of different levels.
     - [Customized layer](components/customized_op/customized_op.ipynb)
 3. Work togother
     - [Modularization](work_togother/modularization/modularization.ipynb)
-    - [Project template](work_togother/Tensorflow-Project-Template/)
+    - [Project template](work_togother/https://github.com/MrGemy95/Tensorflow-Project-Template/tree/998f39bf2786980e3e3b171e9796148a3ec3322f)
     - [Code togother]()
 4. Optimization
     - Speed:
