@@ -38,7 +38,7 @@ The project can be logically divided into three parts of different levels.
 3. Work togother
     - [Modularization](work_togother/modularization/modularization.ipynb)
     - [Project template](work_togother/https://github.com/MrGemy95/Tensorflow-Project-Template/tree/998f39bf2786980e3e3b171e9796148a3ec3322f)
-    - [Code togother]()
+    - [Code togother](https://github.com/yule-li/tensorflow-practice/blob/master/work_togother/tf_face/tf_face.ipynb)
 4. Optimization
     - Speed:
         * [Timeline]()
