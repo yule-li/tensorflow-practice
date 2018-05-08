@@ -45,7 +45,7 @@ The project can be logically divided into three parts of different levels.
         * [Data management](optimization/data_management/data_management.ipynb)
         * [Multi-gpu](optimization/multi_gpu/multi_gpus.ipynb)
     - accuracy
-        * [Modify the network structure]()
+        * [Modify the network structure](optimization/inception_resnet_v1/inception_resnet_v1.ipynb)
         * [CosFace](https://github.com/yule-li/CosFace)
 
 ## How to debug your tensorflow program
