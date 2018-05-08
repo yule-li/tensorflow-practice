@@ -46,8 +46,7 @@ The project can be logically divided into three parts of different levels.
         * [Multi-gpu](optimization/multi_gpu/multi_gpus.ipynb)
     - accuracy
         * [Modify the network structure](optimization/inception_resnet_v1/inception_resnet_v1.ipynb)
-        * [CosFace](https://github.com/yule-li/CosFace)
-
+        * [CosFace](optimization/cosface/cosface.ipynb)
 ## How to debug your tensorflow program
 Firstly you should be clear which phase the errors are from.
 
