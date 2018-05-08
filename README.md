@@ -42,7 +42,7 @@ The project can be logically divided into three parts of different levels.
 4. Optimization
     - Speed:
         * [Timeline](optimization/timeline/timeline.ipynb)
-        * [Data management](https://github.com/yule-li/tensorflow-practice/blob/master/components/data_management/data_management.md)
+        * [Data management](optimization/data_management/data_management.ipynb)
         * [Multi-gpu]()
     - accuracy
         * [Modify the network structure]()
