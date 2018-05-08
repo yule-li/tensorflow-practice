@@ -1,7 +1,7 @@
 import tensorflow as tf
 from tensorflow.python.client import timeline
 import os
-os.environ['TF_CPP_MIN_VLOG_LEVEL'] = '1'
+#os.environ['TF_CPP_MIN_VLOG_LEVEL'] = '1'
 
 if __name__ == '__main__':
     a = tf.constant([1,2],name='a')

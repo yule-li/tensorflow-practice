@@ -1,0 +1,143 @@
+{
+    "traceEvents": [
+        {
+            "ph": "M",
+            "args": {
+                "name": "Allocators"
+            },
+            "pid": 0,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "/job:localhost/replica:0/task:0/cpu:0 Compute"
+            },
+            "pid": 1,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "/job:localhost/replica:0/task:0/cpu:0 Tensors"
+            },
+            "pid": 2,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "/job:localhost/replica:0/task:0/gpu:0 Compute"
+            },
+            "pid": 3,
+            "name": "process_name"
+        },
+        {
+            "ph": "M",
+            "args": {
+                "name": "/job:localhost/replica:0/task:0/gpu:0 Tensors"
+            },
+            "pid": 4,
+            "name": "process_name"
+        },
+        {
+            "name": "NoOp",
+            "args": {
+                "name": "_SOURCE",
+                "op": "NoOp"
+            },
+            "pid": 1,
+            "ts": 1525759939963643,
+            "cat": "Op",
+            "tid": 0,
+            "ph": "X",
+            "dur": 19
+        },
+        {
+            "name": "_Retval",
+            "args": {
+                "input0": "c/_1",
+                "name": "_retval_c_0_0",
+                "op": "_Retval"
+            },
+            "pid": 1,
+            "ts": 1525759939966921,
+            "cat": "Op",
+            "tid": 0,
+            "ph": "X",
+            "dur": 5
+        },
+        {
+            "name": "c",
+            "pid": 3,
+            "ts": 1525759939966882,
+            "cat": "DataFlow",
+            "tid": 0,
+            "ph": "s",
+            "id": 0
+        },
+        {
+            "name": "c",
+            "pid": 1,
+            "ts": 1525759939966921,
+            "cat": "DataFlow",
+            "tid": 0,
+            "ph": "t",
+            "id": 0
+        },
+        {
+            "name": "NoOp",
+            "args": {
+                "name": "_SOURCE",
+                "op": "NoOp"
+            },
+            "pid": 3,
+            "ts": 1525759939963643,
+            "cat": "Op",
+            "tid": 0,
+            "ph": "X",
+            "dur": 852
+        },
+        {
+            "name": "Const",
+            "args": {
+                "name": "a",
+                "op": "Const"
+            },
+            "pid": 3,
+            "ts": 1525759939964500,
+            "cat": "Op",
+            "tid": 0,
+            "ph": "X",
+            "dur": 20
+        },
+        {
+            "name": "Const",
+            "args": {
+                "name": "b",
+                "op": "Const"
+            },
+            "pid": 3,
+            "ts": 1525759939964522,
+            "cat": "Op",
+            "tid": 0,
+            "ph": "X",
+            "dur": 2
+        },
+        {
+            "name": "Add",
+            "args": {
+                "input0": "a",
+                "input1": "b",
+                "name": "c",
+                "op": "Add"
+            },
+            "pid": 3,
+            "ts": 1525759939964525,
+            "cat": "Op",
+            "tid": 0,
+            "ph": "X",
+            "dur": 2357
+        }
+    ]
+}

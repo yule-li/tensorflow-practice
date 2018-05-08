@@ -41,7 +41,7 @@ The project can be logically divided into three parts of different levels.
     - [Code togother](https://github.com/yule-li/tensorflow-practice/blob/master/work_togother/tf_face/tf_face.ipynb)
 4. Optimization
     - Speed:
-        * [Timeline]()
+        * [Timeline](optimization/timeline/timeline.ipynb)
         * [Data management](https://github.com/yule-li/tensorflow-practice/blob/master/components/data_management/data_management.md)
         * [Multi-gpu]()
     - accuracy
