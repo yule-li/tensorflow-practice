@@ -43,7 +43,7 @@ The project can be logically divided into three parts of different levels.
     - Speed:
         * [Timeline](optimization/timeline/timeline.ipynb)
         * [Data management](optimization/data_management/data_management.ipynb)
-        * [Multi-gpu]()
+        * [Multi-gpu](optimization/multi_gpu/multi_gpus.ipynb)
     - accuracy
         * [Modify the network structure]()
         * [CosFace](https://github.com/yule-li/CosFace)
