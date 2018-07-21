@@ -48,8 +48,7 @@ The project can be logically divided into three parts of different levels.
         * [Modify the network structure](optimization/inception_resnet_v1/inception_resnet_v1.ipynb)
         * [CosFace](optimization/cosface/cosface.ipynb)
 ## How to debug your tensorflow program
-Firstly you should be clear which phase the errors are from.
-
+[A Practical Guide for Debugging TensorFlow Codes](https://wookayin.github.io/tensorflow-talk-debugging/#1)
 ## FAQ
 Please look [here](doc/faq.md).
 
