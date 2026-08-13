@@ -1,3 +1,5 @@
+
+
 # Learning tensorflow by just one example for beginners.
 This project was designed for learning tensorflow by just one example for beginners. More specifically, it's aimmed to achive the goal as follows:
 - Understanding the key concepts of addressing compuation in tensorflow 
@@ -33,7 +35,7 @@ The project can be logically divided into three parts of different levels.
     - [Optimizer and trainer](https://github.com/yule-li/tensorflow-practice/blob/master/components/optimizer/linear_regression.ipynb)
     - [Convolution network](https://github.com/yule-li/tensorflow-practice/tree/master/components/convolution_network)
     - [Save and restore](components/save_and_restore/save_and_restore.ipynb)
-    - [Tensorboard]()
+    - [Tensorboard](https://www.tensorflow.org/guide/tensorboard)
     - [Customized layer](components/customized_op/customized_op.ipynb)
 3. Work togother
     - [Modularization](work_togother/modularization/modularization.ipynb)
@@ -58,5 +60,3 @@ Please look [here](doc/faq.md).
 3. [Tensorflow sphereface](https://github.com/hujun100/tensorflow-sphereface)
 4. [tensorflow cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
 5. [tensorflow sphereface](https://github.com/hujun100/tensorflow-sphereface)
-
-
